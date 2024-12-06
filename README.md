@@ -192,3 +192,6 @@ if __name__ == "__main__":
 ## Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+## Exemplo da Base de Dados Extraída
+Um exemplo do formato da base de dados gerada pode ser encontrado em: https://github.com/Edumesqg/Scraper-Imovelweb-/blob/main/apartment_ads_20241206_180156.csv
+Ele contém algumas linhas dos dados extraídos, incluindo informações como título, bairro, área total, valor do aluguel, etc.
